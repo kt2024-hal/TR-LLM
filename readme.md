@@ -16,7 +16,7 @@ Quick visualization of the trajectories contained in LocoVR is done by the follo
 1. Download github repo
 
 3. Download model
-Download the foloder "model_path_gen" and "model_goal_pred" from [this link](https://drive.google.com/drive/folders/12KDUSa-gaL1O2zZJoHte7wxGqZV4sdgz?usp=drive_link) and [this link](https://drive.google.com/drive/folders/17igHml1v3JjgFNzYqnXN9LKlRy9lkbqZ?usp=drive_link), then unzip it, and place it in the top of "main" folder.
+Download the foloder "model_path_gen" and "model_goal_pred" from [this link](https://drive.google.com/drive/folders/1D1ogzcJUhUx6zpITXC15zI7MVbgEWfz7?usp=sharing), and unzip it, then place it in the top of "main" folder.
      
 4. Install the packages in requirements.txt (python==3.8.1, cuda12.1):
 ```
